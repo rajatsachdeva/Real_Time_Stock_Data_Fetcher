@@ -1,0 +1,28 @@
+-------- OUTPUT ---------
+
+Enter number of Stocks: 2
+1. Enter Stock: AAPL
+2. Enter Stock: GOOG
+['AAPL', 'GOOG']
+[
+  {
+    "ID": "22144",
+    "StockSymbol": "AAPL",
+    "Index": "NASDAQ",
+    "LastTradePrice": "148.88",
+    "LastTradeWithCurrency": "148.88",
+    "LastTradeTime": "12:39PM EDT",
+    "LastTradeDateTime": "2017-07-31T12:39:44Z",
+    "LastTradeDateTimeLong": "Jul 31, 12:39PM EDT"
+  },
+  {
+    "ID": "304466804484872",
+    "StockSymbol": "GOOG",
+    "Index": "NASDAQ",
+    "LastTradePrice": "930.34",
+    "LastTradeWithCurrency": "930.34",
+    "LastTradeTime": "12:39PM EDT",
+    "LastTradeDateTime": "2017-07-31T12:39:46Z",
+    "LastTradeDateTimeLong": "Jul 31, 12:39PM EDT"
+  }
+]
